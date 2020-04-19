@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="nodpi.png" alt="NodPI">
+  <img src="logo.png" alt="NodPI">
 </p>
 
 # NodPI
