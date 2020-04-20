@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="logo.png" alt="NodPI">
-</p>
+<p align="center"> <img src="https://github.com/askynet/NodPI/blob/master/logo.png"/></p>
 
-# NodPI
+# nodpi
+
 The NodPI [Node + API] is a command-line interface that scaffolds a project or an extension by generating the basic code. The CLI provides the fastest way to get started with a Node API project that adheres to best practices.
 
 ## Built for API developers
@@ -27,3 +26,8 @@ The NodPI [Node + API] is a command-line interface that scaffolds a project or a
     nodpi p users [folder name optional] ---    To create new node api controller file
 
     nodpi s users [folder name optional] ---    To create new node api service file
+
+
+#### Donation
+<a target="__blank" href="https://rzp.io/l/WLmFX3w"><img src="donate.png" alt="Donate"/></a>
+
